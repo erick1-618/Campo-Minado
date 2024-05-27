@@ -14,4 +14,4 @@ X - Coordenada Vertical (De cima para baixo)
 
 Y - Coordenada Horizontal (Da esquerda para direita)
 
-z - Jogar ou colocar bandeira (J ou F) 
+Z - Jogar ou colocar bandeira (J ou F) 
